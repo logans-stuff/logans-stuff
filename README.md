@@ -9,7 +9,7 @@
 [![Arizona Meshtastic Community](https://img.shields.io/badge/Arizona_Meshtastic-11111b?style=for-the-badge&logo=github&logoColor=89b4fa)](https://github.com/ArizonaMeshtasticCommunity)
 
 <br><br>
-<img src="assets/cat-ops-v2.webp" alt="Logan's cat monitoring system status" width="180">
+<img src="assets/cat-ops.gif" alt="Logan's cat monitoring system status" width="180">
 
 <sub>on-call infrastructure supervisor</sub>
 
