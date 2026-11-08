@@ -65,13 +65,11 @@ $ systemctl status household-cats
 - **[Meshtastic on Wii](https://github.com/logans-stuff/wii-meshtastic)** - Meshtastic firmware port using libogc, a Wii UI, and a USB LoRa radio
 - **[Arizona Meshtastic projects](https://github.com/ArizonaMeshtasticCommunity)** - monitoring, bots, documentation, scripts, and training material
 
-## GitHub activity
+## Contributions
 
 <div align="center">
 
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logans-stuff&show_icons=true&hide_border=true&bg_color=11111b&title_color=89b4fa&text_color=cdd6f4&icon_color=a6e3a1&ring_color=89b4fa)
-
-![Contribution snake](https://raw.githubusercontent.com/logans-stuff/logans-stuff/output/github-contribution-grid-snake-dark.svg)
+![Contribution snake](https://raw.githubusercontent.com/logans-stuff/logans-stuff/gh-pages/github-contribution-grid-snake-dark.svg)
 
 </div>
 
