@@ -25,12 +25,10 @@ $ systemctl status household-cats
 
 ## Focus
 
-- Linux infrastructure and self-hosted services
-- Docker Compose deployment and service operations
+- Linux, Docker Compose, Caddy, and self-hosted services
 - PostgreSQL, TimescaleDB, MQTT, and data pipelines
-- Grafana dashboards, metrics, and operational visibility
-- Caddy, internal APIs, reverse proxies, and automation
-- Infrastructure for the [Arizona Meshtastic Community](https://github.com/ArizonaMeshtasticCommunity)
+- Grafana, metrics, dashboards, and service monitoring
+- Community infrastructure for the [Arizona Meshtastic Community](https://github.com/ArizonaMeshtasticCommunity)
 
 ## Projects
 
@@ -60,23 +58,6 @@ $ systemctl status household-cats
     </td>
   </tr>
 </table>
-
-## Stack
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-11111b?style=for-the-badge&logo=docker&logoColor=89b4fa)
-![Linux](https://img.shields.io/badge/Linux-11111b?style=for-the-badge&logo=linux&logoColor=f9e2af)
-![Python](https://img.shields.io/badge/Python-11111b?style=for-the-badge&logo=python&logoColor=89b4fa)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-11111b?style=for-the-badge&logo=postgresql&logoColor=89b4fa)
-![Grafana](https://img.shields.io/badge/Grafana-11111b?style=for-the-badge&logo=grafana&logoColor=fab387)
-![Caddy](https://img.shields.io/badge/Caddy-11111b?style=for-the-badge&logo=caddy&logoColor=94e2d5)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-11111b?style=for-the-badge&logo=githubactions&logoColor=89b4fa)
-![MQTT](https://img.shields.io/badge/MQTT-11111b?style=for-the-badge&logo=mqtt&logoColor=cba6f7)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-11111b?style=for-the-badge&logo=raspberrypi&logoColor=f38ba8)
-![Git](https://img.shields.io/badge/Git-11111b?style=for-the-badge&logo=git&logoColor=fab387)
-
-</div>
 
 ## Radio and embedded projects
 
